@@ -9,6 +9,8 @@ Built for Ubuntu 16.04, with GTK2 + GTK3.18 in mind. Should work on Unity / GNOM
 ![Screenshot](http://i.imgur.com/LUctwq6.png)
 *arc-gruvbox with gruvbox term color scheme*
 
+![Screenshot](http://i.imgur.com/OVBxMPb.png)
+
 ## Install
 
 ```
